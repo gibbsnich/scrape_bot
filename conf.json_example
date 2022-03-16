@@ -1,0 +1,6 @@
+[{
+    "url": "https://url.com/",
+    "selector": "//button[@disabled]/span/text()",
+    "expect": "['Value']",
+    "message": "Value changed"
+}]
